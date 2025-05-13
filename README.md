@@ -1,4 +1,4 @@
-# IT-Web-Administration - CISCO
+# IT Web Administration - CISCO
 
 ## General info
 <details>
