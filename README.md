@@ -10,3 +10,7 @@ The repository will be a collection of multiple network projects in the configur
 In most cases I will use the Cisco Packet Tracer application.
 </details>
 
+## LICENSE
+<details>
+You cannot use my projects without my agreement.
+</details>
