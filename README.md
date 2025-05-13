@@ -7,6 +7,6 @@ The repository will be a collection of multiple network projects in the configur
 
 ## Technologies
 <details>
-During the projects, mainly projects with Cisco Packet Tracer will be performed.
+In most cases I will use the Cisco Packet Tracer application.
 </details>
 
