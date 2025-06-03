@@ -1,0 +1,12 @@
+1. Configure the network interface of the desktop computer so that the IP address of the workstation is assigned automatically.
+2. The WiFi device (computer) should have the last IP number used by computers
+in the WLAN network from the DHCP service.
+3. Design a WiFi network with an access point configured according to the following recommendations:
+- IP address of the access point 192.168.x.101/24, (x – WiFi router number),
+- broadcast network identifier "s27wifix" on channel x, (x – WiFi router number),
+- WPA2/PSK encryption used,
+- shared access key "100krotka",
+- cipher used in the AES network.
+4. Configure the DHCP service in the WLAN network operating on the WiFi router so that it is possible to
+automatically assign IP numbers to a maximum of 20 clients from number 201 on the last byte. 5. Connect any client (e.g. mobile phone, desktop computer) to the WiFi network.
+6. Configure the MAC address filtering service on the WiFi router so that only one client from point 5 (e.g. mobile phone, desktop computer) has access to the WLAN network.
